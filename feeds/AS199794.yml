@@ -7,4 +7,4 @@ name: "EMOCLOUD LTD"
 asn: "AS199794"
 contact: "abuse@emocloud.co"
 geofeed_urls:
-  - "https://emocloud-geofeed.1720511482.workers.dev/geofeed.csv"
+  - "https://api.emocloud.co/geofeed.csv"
