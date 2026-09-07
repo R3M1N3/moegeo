@@ -1,6 +1,6 @@
 # Geofeed Community Aggregation by MoeDove LLC
-# Generated at: 2026-09-07T14:09:03.384165+00:00
-# Total prefixes: 1061
+# Generated at: 2026-09-07T14:12:23.286733+00:00
+# Total prefixes: 1064
 
 # AS135671 - RBB InfoTech - Last change: Wed, 26 Aug 2026 09:08:39 GMT
 44.31.28.0/24,US,US-MO,Kansas City,
@@ -643,9 +643,12 @@
 2a12:cb41:13f0::/44,,,,
 44.32.191.128/28,CN,CN-JL,Antu,
 
-# AS199794 - EMOCLOUD LTD - Last change: Mon, 07 Sep 2026 14:08:46 GMT
+# AS199794 - EMOCLOUD LTD - Last change: Mon, 07 Sep 2026 14:12:09 GMT
 194.62.119.0/24,JP,JP-13,Tokyo,
 91.200.222.0/24,HK,,Tsuen Wan,
+2a0f:1cc6:ff00::/40,JP,JP-13,Tokyo,
+2a0f:1cc6:fe00::/40,HK,,Tsuen Wan,
+2a0f:1cc6:b160::/44,DE,DE-HE,Frankfurt am Main,
 
 # AS200078 - Potat0 Network - Last change: Sun, 01 Feb 2026 06:16:27 GMT
 2a13:b487:1101::/48,CN,CN-SH,Shanghai,
