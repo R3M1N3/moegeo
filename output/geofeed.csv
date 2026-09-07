@@ -1,14 +1,15 @@
 # Geofeed Community Aggregation by MoeDove LLC
-# Generated at: 2026-07-30T04:55:01.724285+00:00
-# Total prefixes: 1018
+# Generated at: 2026-09-07T14:09:03.384165+00:00
+# Total prefixes: 1061
 
-# AS135671 - RBB InfoTech - Last change: Fri, 17 Jul 2026 06:18:14 GMT
+# AS135671 - RBB InfoTech - Last change: Wed, 26 Aug 2026 09:08:39 GMT
 44.31.28.0/24,US,US-MO,Kansas City,
 2a0e:aa06:440::/48,US,,,
 2a0e:aa06:450::/44,US,US-MO,Kansas City,
 2a14:67c2:500::/40,US,US-MO,Kansas City,
 2a14:67c2:510::/48,,,,
 2a14:67c2:519::/48,US,US-MO,Kansas City,
+2a14:67c2:520::/48,NL,NL-NH,Amsterdam,
 2a14:67c2:575::/48,,,,
 2a14:67c2:575:1262::/64,JP,JP-13,Tokyo,
 2a14:67c2:575:1263::/64,SG,,Singapore,
@@ -19,11 +20,13 @@
 2a14:67c3:caf0::/44,US,US-MO,Kansas City,
 2a14:67c3:cafe::/48,SG,,Singapore,
 
-# AS140227 - HONG KONG COMMUNICATIONS INTERNATIONAL CO., LIMITED - Last change: Tue, 14 Jul 2026 09:26:14 GMT
+# AS140227 - HONG KONG COMMUNICATIONS INTERNATIONAL CO., LIMITED - Last change: Fri, 31 Jul 2026 05:40:31 GMT
+177.2.16.0/21,US,US-CA,Los Angeles,
 177.2.16.0/24,US,US-CA,Los Angeles,
 177.2.17.0/24,US,US-CA,Los Angeles,
 177.2.18.0/24,US,US-CA,Los Angeles,
 177.2.19.0/24,US,US-CA,Los Angeles,
+177.2.24.0/21,US,US-CA,Los Angeles,
 177.2.24.0/24,US,US-CA,Los Angeles,
 177.2.25.0/24,US,US-CA,Los Angeles,
 177.2.26.0/24,US,US-CA,Los Angeles,
@@ -32,6 +35,7 @@
 177.2.29.0/24,US,US-CA,Los Angeles,
 177.2.30.0/24,US,US-CA,Los Angeles,
 177.2.31.0/24,US,US-CA,Los Angeles,
+177.2.176.0/21,US,US-CA,Los Angeles,
 177.2.176.0/24,US,US-CA,Los Angeles,
 177.2.177.0/24,US,US-CA,Los Angeles,
 177.2.178.0/24,US,US-CA,Los Angeles,
@@ -40,6 +44,7 @@
 177.2.181.0/24,US,US-CA,Los Angeles,
 177.2.182.0/24,US,US-CA,Los Angeles,
 177.2.183.0/24,US,US-CA,Los Angeles,
+177.3.32.0/21,US,US-CA,Los Angeles,
 177.3.32.0/24,US,US-CA,Los Angeles,
 177.3.33.0/24,US,US-CA,Los Angeles,
 177.3.34.0/24,US,US-CA,Los Angeles,
@@ -48,6 +53,7 @@
 177.3.37.0/24,US,US-CA,Los Angeles,
 177.3.38.0/24,US,US-CA,Los Angeles,
 177.3.39.0/24,US,US-CA,Los Angeles,
+177.3.40.0/21,US,US-CA,Los Angeles,
 177.3.40.0/24,US,US-CA,Los Angeles,
 177.3.41.0/24,US,US-CA,Los Angeles,
 177.3.42.0/24,US,US-CA,Los Angeles,
@@ -56,6 +62,7 @@
 177.3.45.0/24,US,US-CA,Los Angeles,
 177.3.46.0/24,US,US-CA,Los Angeles,
 177.3.47.0/24,US,US-CA,Los Angeles,
+177.3.80.0/21,US,US-CA,Los Angeles,
 177.3.80.0/24,US,US-CA,Los Angeles,
 177.3.81.0/24,US,US-CA,Los Angeles,
 177.3.82.0/24,US,US-CA,Los Angeles,
@@ -64,10 +71,12 @@
 177.3.85.0/24,US,US-CA,Los Angeles,
 177.3.86.0/24,US,US-CA,Los Angeles,
 177.3.87.0/24,US,US-CA,Los Angeles,
+177.5.48.0/21,US,US-CA,Los Angeles,
 177.5.48.0/24,US,US-CA,Los Angeles,
 177.5.49.0/24,US,US-CA,Los Angeles,
 177.5.50.0/24,US,US-CA,Los Angeles,
 177.5.51.0/24,US,US-CA,Los Angeles,
+177.5.56.0/21,US,US-CA,Los Angeles,
 177.5.56.0/24,US,US-CA,Los Angeles,
 177.5.57.0/24,US,US-CA,Los Angeles,
 177.5.58.0/24,US,US-CA,Los Angeles,
@@ -76,7 +85,7 @@
 177.5.61.0/24,US,US-CA,Los Angeles,
 177.5.62.0/24,US,US-CA,Los Angeles,
 177.5.63.0/24,US,US-CA,Los Angeles,
-177.7.128.0/20,US,US-CA,Los Angeles,
+177.7.128.0/21,US,US-CA,Los Angeles,
 177.7.128.0/24,US,US-CA,Los Angeles,
 177.7.129.0/24,US,US-CA,Los Angeles,
 177.7.130.0/24,US,US-CA,Los Angeles,
@@ -85,6 +94,7 @@
 177.7.133.0/24,US,US-CA,Los Angeles,
 177.7.134.0/24,US,US-CA,Los Angeles,
 177.7.135.0/24,US,US-CA,Los Angeles,
+177.7.136.0/21,US,US-CA,Los Angeles,
 177.7.136.0/24,US,US-CA,Los Angeles,
 177.7.137.0/24,US,US-CA,Los Angeles,
 177.7.138.0/24,US,US-CA,Los Angeles,
@@ -93,22 +103,25 @@
 177.7.141.0/24,US,US-CA,Los Angeles,
 177.7.142.0/24,US,US-CA,Los Angeles,
 177.7.143.0/24,US,US-CA,Los Angeles,
-177.5.64.0/24,SG,SG-01,Singapore,
-177.5.65.0/24,SG,SG-01,Singapore,
-177.5.66.0/24,SG,SG-01,Singapore,
-177.5.67.0/24,SG,SG-01,Singapore,
-177.5.68.0/24,SG,SG-01,Singapore,
-177.5.69.0/24,SG,SG-01,Singapore,
-177.5.70.0/24,SG,SG-01,Singapore,
-177.5.71.0/24,SG,SG-01,Singapore,
-177.5.72.0/24,SG,SG-01,Singapore,
-177.5.73.0/24,SG,SG-01,Singapore,
-177.5.74.0/24,SG,SG-01,Singapore,
-177.5.75.0/24,SG,SG-01,Singapore,
-177.5.76.0/24,SG,SG-01,Singapore,
-177.5.77.0/24,SG,SG-01,Singapore,
-177.5.78.0/24,SG,SG-01,Singapore,
-177.5.79.0/24,SG,SG-01,Singapore,
+177.5.64.0/21,SG,,Singapore,
+177.5.64.0/24,SG,,Singapore,
+177.5.65.0/24,SG,,Singapore,
+177.5.66.0/24,SG,,Singapore,
+177.5.67.0/24,SG,,Singapore,
+177.5.68.0/24,SG,,Singapore,
+177.5.69.0/24,SG,,Singapore,
+177.5.70.0/24,SG,,Singapore,
+177.5.71.0/24,SG,,Singapore,
+177.5.72.0/21,SG,,Singapore,
+177.5.72.0/24,SG,,Singapore,
+177.5.73.0/24,SG,,Singapore,
+177.5.74.0/24,SG,,Singapore,
+177.5.75.0/24,SG,,Singapore,
+177.5.76.0/24,SG,,Singapore,
+177.5.77.0/24,SG,,Singapore,
+177.5.78.0/24,SG,,Singapore,
+177.5.79.0/24,SG,,Singapore,
+177.2.184.0/21,JP,JP-13,Tokyo,
 177.2.184.0/24,JP,JP-13,Tokyo,
 177.2.185.0/24,JP,JP-13,Tokyo,
 177.2.186.0/24,JP,JP-13,Tokyo,
@@ -117,6 +130,7 @@
 177.2.189.0/24,JP,JP-13,Tokyo,
 177.2.190.0/24,JP,JP-13,Tokyo,
 177.2.191.0/24,JP,JP-13,Tokyo,
+177.3.88.0/21,JP,JP-13,Tokyo,
 177.3.88.0/24,JP,JP-13,Tokyo,
 177.3.89.0/24,JP,JP-13,Tokyo,
 177.3.90.0/24,JP,JP-13,Tokyo,
@@ -125,6 +139,7 @@
 177.3.93.0/24,JP,JP-13,Tokyo,
 177.3.94.0/24,JP,JP-13,Tokyo,
 177.3.95.0/24,JP,JP-13,Tokyo,
+177.4.80.0/21,JP,JP-13,Tokyo,
 177.4.80.0/24,JP,JP-13,Tokyo,
 177.4.81.0/24,JP,JP-13,Tokyo,
 177.4.82.0/24,JP,JP-13,Tokyo,
@@ -133,6 +148,7 @@
 177.4.85.0/24,JP,JP-13,Tokyo,
 177.4.86.0/24,JP,JP-13,Tokyo,
 177.4.87.0/24,JP,JP-13,Tokyo,
+177.4.88.0/21,JP,JP-13,Tokyo,
 177.4.88.0/24,JP,JP-13,Tokyo,
 177.4.89.0/24,JP,JP-13,Tokyo,
 177.4.90.0/24,JP,JP-13,Tokyo,
@@ -141,14 +157,7 @@
 177.4.93.0/24,JP,JP-13,Tokyo,
 177.4.94.0/24,JP,JP-13,Tokyo,
 177.4.95.0/24,JP,JP-13,Tokyo,
-177.5.52.0/24,JP,JP-13,Tokyo,
-177.5.53.0/24,JP,JP-13,Tokyo,
-177.5.54.0/24,JP,JP-13,Tokyo,
-177.5.55.0/24,JP,JP-13,Tokyo,
-177.2.20.0/24,HK,,Hong Kong,
-177.2.21.0/24,HK,,Hong Kong,
-177.2.22.0/24,HK,,Hong Kong,
-177.2.23.0/24,HK,,Hong Kong,
+177.4.0.0/21,HK,,Hong Kong,
 177.4.0.0/24,HK,,Hong Kong,
 177.4.1.0/24,HK,,Hong Kong,
 177.4.2.0/24,HK,,Hong Kong,
@@ -157,6 +166,7 @@
 177.4.5.0/24,HK,,Hong Kong,
 177.4.6.0/24,HK,,Hong Kong,
 177.4.7.0/24,HK,,Hong Kong,
+177.4.8.0/21,HK,,Hong Kong,
 177.4.8.0/24,HK,,Hong Kong,
 177.4.9.0/24,HK,,Hong Kong,
 177.4.10.0/24,HK,,Hong Kong,
@@ -165,6 +175,7 @@
 177.4.13.0/24,HK,,Hong Kong,
 177.4.14.0/24,HK,,Hong Kong,
 177.4.15.0/24,HK,,Hong Kong,
+177.4.32.0/21,HK,,Hong Kong,
 177.4.32.0/24,HK,,Hong Kong,
 177.4.33.0/24,HK,,Hong Kong,
 177.4.34.0/24,HK,,Hong Kong,
@@ -173,6 +184,7 @@
 177.4.37.0/24,HK,,Hong Kong,
 177.4.38.0/24,HK,,Hong Kong,
 177.4.39.0/24,HK,,Hong Kong,
+177.4.40.0/21,HK,,Hong Kong,
 177.4.40.0/24,HK,,Hong Kong,
 177.4.41.0/24,HK,,Hong Kong,
 177.4.42.0/24,HK,,Hong Kong,
@@ -181,6 +193,7 @@
 177.4.45.0/24,HK,,Hong Kong,
 177.4.46.0/24,HK,,Hong Kong,
 177.4.47.0/24,HK,,Hong Kong,
+177.5.112.0/21,HK,,Hong Kong,
 177.5.112.0/24,HK,,Hong Kong,
 177.5.113.0/24,HK,,Hong Kong,
 177.5.114.0/24,HK,,Hong Kong,
@@ -189,6 +202,7 @@
 177.5.117.0/24,HK,,Hong Kong,
 177.5.118.0/24,HK,,Hong Kong,
 177.5.119.0/24,HK,,Hong Kong,
+177.5.120.0/21,HK,,Hong Kong,
 177.5.120.0/24,HK,,Hong Kong,
 177.5.121.0/24,HK,,Hong Kong,
 177.5.122.0/24,HK,,Hong Kong,
@@ -197,6 +211,7 @@
 177.5.125.0/24,HK,,Hong Kong,
 177.5.126.0/24,HK,,Hong Kong,
 177.5.127.0/24,HK,,Hong Kong,
+177.6.176.0/21,HK,,Hong Kong,
 177.6.176.0/24,HK,,Hong Kong,
 177.6.177.0/24,HK,,Hong Kong,
 177.6.178.0/24,HK,,Hong Kong,
@@ -205,6 +220,7 @@
 177.6.181.0/24,HK,,Hong Kong,
 177.6.182.0/24,HK,,Hong Kong,
 177.6.183.0/24,HK,,Hong Kong,
+177.6.184.0/21,HK,,Hong Kong,
 177.6.184.0/24,HK,,Hong Kong,
 177.6.185.0/24,HK,,Hong Kong,
 177.6.186.0/24,HK,,Hong Kong,
@@ -213,6 +229,7 @@
 177.6.189.0/24,HK,,Hong Kong,
 177.6.190.0/24,HK,,Hong Kong,
 177.6.191.0/24,HK,,Hong Kong,
+179.236.96.0/21,HK,,Hong Kong,
 179.236.96.0/24,HK,,Hong Kong,
 179.236.97.0/24,HK,,Hong Kong,
 179.236.98.0/24,HK,,Hong Kong,
@@ -221,6 +238,7 @@
 179.236.101.0/24,HK,,Hong Kong,
 179.236.102.0/24,HK,,Hong Kong,
 179.236.103.0/24,HK,,Hong Kong,
+179.236.104.0/21,HK,,Hong Kong,
 179.236.104.0/24,HK,,Hong Kong,
 179.236.105.0/24,HK,,Hong Kong,
 179.236.106.0/24,HK,,Hong Kong,
@@ -229,6 +247,7 @@
 179.236.109.0/24,HK,,Hong Kong,
 179.236.110.0/24,HK,,Hong Kong,
 179.236.111.0/24,HK,,Hong Kong,
+177.5.176.0/21,HK,,Hong Kong,
 177.5.176.0/24,HK,,Hong Kong,
 177.5.177.0/24,HK,,Hong Kong,
 177.5.178.0/24,HK,,Hong Kong,
@@ -237,6 +256,7 @@
 177.5.181.0/24,HK,,Hong Kong,
 177.5.182.0/24,HK,,Hong Kong,
 177.5.183.0/24,HK,,Hong Kong,
+177.5.184.0/21,HK,,Hong Kong,
 177.5.184.0/24,HK,,Hong Kong,
 177.5.185.0/24,HK,,Hong Kong,
 177.5.186.0/24,HK,,Hong Kong,
@@ -245,6 +265,7 @@
 177.5.189.0/24,HK,,Hong Kong,
 177.5.190.0/24,HK,,Hong Kong,
 177.5.191.0/24,HK,,Hong Kong,
+191.223.32.0/21,HK,,Hong Kong,
 191.223.32.0/24,HK,,Hong Kong,
 191.223.33.0/24,HK,,Hong Kong,
 191.223.34.0/24,HK,,Hong Kong,
@@ -253,6 +274,7 @@
 191.223.37.0/24,HK,,Hong Kong,
 191.223.38.0/24,HK,,Hong Kong,
 191.223.39.0/24,HK,,Hong Kong,
+191.223.40.0/21,HK,,Hong Kong,
 191.223.40.0/24,HK,,Hong Kong,
 191.223.41.0/24,HK,,Hong Kong,
 191.223.42.0/24,HK,,Hong Kong,
@@ -293,24 +315,24 @@
 200.222.237.0/24,HK,,Hong Kong,
 200.222.238.0/24,HK,,Hong Kong,
 200.222.239.0/24,HK,,Hong Kong,
-45.194.16.0/21,SG,SG-01,Singapore,
-45.194.16.0/24,SG,SG-01,Singapore,
-45.194.17.0/24,SG,SG-01,Singapore,
-45.194.18.0/24,SG,SG-01,Singapore,
-45.194.19.0/24,SG,SG-01,Singapore,
-45.194.22.0/24,SG,SG-01,Singapore,
-38.47.224.0/24,SG,SG-01,Singapore,
-38.47.225.0/24,SG,SG-01,Singapore,
-38.47.226.0/24,SG,SG-01,Singapore,
-38.47.227.0/24,SG,SG-01,Singapore,
-38.181.48.0/24,SG,SG-01,Singapore,
-38.181.49.0/24,SG,SG-01,Singapore,
-38.181.50.0/24,SG,SG-01,Singapore,
-38.181.51.0/24,SG,SG-01,Singapore,
-38.181.52.0/24,SG,SG-01,Singapore,
-38.181.53.0/24,SG,SG-01,Singapore,
-38.181.54.0/24,SG,SG-01,Singapore,
-38.181.55.0/24,SG,SG-01,Singapore,
+45.194.16.0/21,SG,,Singapore,
+45.194.16.0/24,SG,,Singapore,
+45.194.17.0/24,SG,,Singapore,
+45.194.18.0/24,SG,,Singapore,
+45.194.19.0/24,SG,,Singapore,
+45.194.22.0/24,SG,,Singapore,
+38.47.224.0/24,SG,,Singapore,
+38.47.225.0/24,SG,,Singapore,
+38.47.226.0/24,SG,,Singapore,
+38.47.227.0/24,SG,,Singapore,
+38.181.48.0/24,SG,,Singapore,
+38.181.49.0/24,SG,,Singapore,
+38.181.50.0/24,SG,,Singapore,
+38.181.51.0/24,SG,,Singapore,
+38.181.52.0/24,SG,,Singapore,
+38.181.53.0/24,SG,,Singapore,
+38.181.54.0/24,SG,,Singapore,
+38.181.55.0/24,SG,,Singapore,
 103.148.218.0/24,HK,,Hong Kong,
 103.148.219.0/24,HK,,Hong Kong,
 104.143.32.0/20,HK,,Hong Kong,
@@ -603,19 +625,16 @@
 2a0f:1cc5:3700::/44,HK,,Hong Kong,
 2a0f:1cc5:3710::/44,TW,,Taipei,
 
-# AS153376 - Jilin Province Brick Business Service Limited - Last change: Thu, 25 Jun 2026 02:35:36 GMT
+# AS153376 - Jilin Province Brick Business Service Limited - Last change: Fri, 07 Aug 2026 12:20:11 GMT
 2406:840:e600::/44,CN,CN-JL,Changchun,
 2406:840:e600::/45,CN,CN-ZJ,Hangzhou,
 2a0f:1cc5:10::/44,HK,,,
 44.32.191.0/24,HK,,,
 44.32.191.11/32,JP,JP-13,Tokyo,
-44.32.191.12/32,CA,CA-ON,Toronto,
-44.32.191.13/32,JP,JP-13,Tokyo,
-44.32.191.6/32,HK,,,
-44.32.191.7/32,CN,CN-ZJ,Hangzhou,
-44.32.191.8/32,CN,CN-ZJ,Hangzhou,
+44.32.191.4/32,HK,,,
+44.32.191.5/32,CN,CN-ZJ,Hangzhou,
+44.32.191.6/32,CN,CN-SH,Shanghai,
 44.32.191.80/28,CN,CN-JL,Changchun,
-44.32.191.9/32,CN,CN-SH,Shanghai,
 44.32.191.96/27,CN,CN-JL,Changchun,
 2a12:cb41:1200::/44,JP,JP-13,Tokyo,
 2a12:cb41:1210::/44,JP,,,
@@ -623,6 +642,10 @@
 2a12:cb41:1310::/44,SG,SG-01,Singapore,
 2a12:cb41:13f0::/44,,,,
 44.32.191.128/28,CN,CN-JL,Antu,
+
+# AS199794 - EMOCLOUD LTD - Last change: Mon, 07 Sep 2026 14:08:46 GMT
+194.62.119.0/24,JP,JP-13,Tokyo,
+91.200.222.0/24,HK,,Tsuen Wan,
 
 # AS200078 - Potat0 Network - Last change: Sun, 01 Feb 2026 06:16:27 GMT
 2a13:b487:1101::/48,CN,CN-SH,Shanghai,
@@ -673,7 +696,7 @@
 2a0f:1cc5:170::/44,JP,JP-13,Tokyo,100-0001
 44.30.131.170/31,JP,JP-13,Tokyo,100-0001
 
-# AS203923 - Hoyoverse Network - Last change: Mon, 13 Jul 2026 16:14:31 GMT
+# AS203923 - Hoyoverse Network - Last change: Sat, 05 Sep 2026 07:48:47 GMT
 2a0f:1cc5:401::/48,HK,,Tsuen Wan,999077
 2a0f:1cc5:402::/48,MO,,Macao,999078
 2a0f:1cc5:403::/48,JP,JP-13,Tokyo,100-0001
@@ -681,16 +704,20 @@
 2a0f:1cc5:405::/48,GB,GB-ENG,London,999020
 2a0f:1cc5:406::/48,MY,,Kuala Lumpur,50000
 2a0f:1cc5:407::/48,HK,,Tsuen Wan,999077
+2a0f:1cc5:408::/48,GB,GB-ENG,London,999020
+2a0f:1cc5:409::/48,DE,DE-HE,Frankfurt,60311
 2406:840:9666::/48,MO,,Macao,999078
-2a0f:1cc5:408::/48,DE,DE-HE,Frankfurt,60311
+2406:840:9661::/48,SG,,Singapore,018989
 141.11.238.0/24,HK,,Tsuen Wan,999077
 
-# AS206069 - Cornseed Limited - Last change: Sun, 05 Jul 2026 08:56:38 GMT
+# AS206069 - Cornseed Limited - Last change: Fri, 21 Aug 2026 13:57:04 GMT
 87.76.198.0/24,JP,JP-13,Tokyo,
 82.22.26.0/24,JP,JP-13,Tokyo,
 82.29.38.0/24,JP,JP-13,Tokyo,
 64.204.48.0/23,JP,JP-13,Tokyo,
 87.86.87.0/24,JP,JP-13,Tokyo,
+87.86.22.0/24,JP,JP-13,Tokyo,
+16.5.55.0/24,JP,JP-13,Tokyo,
 2a14:7586:6109::/48,JP,JP-13,Tokyo,
 2a14:7586:6111::/48,JP,JP-13,Tokyo,
 2a14:7586:6112::/48,JP,JP-13,Tokyo,
@@ -710,7 +737,7 @@
 2a01:e281:a400::/48,CN,CN-HB,Wuhan,
 2a01:e281:a410::/44,JP,JP-13,Tokyo,
 
-# AS210352 - ZeroWolf Network - Last change: Thu, 11 Jun 2026 17:01:56 GMT
+# AS210352 - ZeroWolf Network - Last change: Wed, 26 Aug 2026 15:47:12 GMT
 2a0f:1cc5:f00::/48,TW,TW-TPE,Taipei,
 2a0f:1cc5:f01::/48,HK,,Hong Kong,
 2a0f:1cc5:f02::/48,JP,JP-13,Tokyo,
@@ -719,7 +746,7 @@
 2a0f:1cc5:f05::/48,HK,,Hong Kong,
 2a0f:1cc5:f06::/48,US,US-UT,Salt Lake City,
 2a0f:1cc5:f07::/48,JP,JP-13,Tokyo,
-2a0f:1cc5:f08::/48,NL,NL-NH,Amsterdam,
+2a0f:1cc5:f08::/48,AU,AU-VIC,Melbourne,
 2a0f:1cc5:f09::/48,US,US-CA,San Jose,
 2602:f92a:a47d::/48,US,US-CA,Los Angeles,90201
 
@@ -737,9 +764,11 @@
 # AS213625 - G-HO.ST - Last change: Mon, 01 Jun 2026 06:51:23 GMT
 44.30.15.0/24,US,US-WA,Seattle,
 
-# AS213876 - LangYa Network - Last change: Fri, 24 Jul 2026 05:17:02 GMT
+# AS213876 - LangYa Network - Last change: Mon, 07 Sep 2026 14:08:53 GMT
 2a0f:1cc5:2000::/44,DE,DE-BY,Nuremberg,
+2a0f:1cc5:2020::/44,GB,GB-LND,London,
 2602:f92a:a462::/48,HK,,Hong Kong,
+2a0f:1cc5:2010::/44,HK,,Hong Kong,
 
 # AS214731 - ETO Networks Limited - Last change: Sat, 23 May 2026 05:36:48 GMT
 2a01:e281:ad00::/43,US,US-NV,Las Vegas,
@@ -840,20 +869,31 @@
 44.32.143.0/24,JP,JP-13,Tokyo,
 2a13:a5c7:1888::/48,JP,JP-13,Tokyo,
 
-# AS219332 - Pmman Network - Last change: Mon, 13 Jul 2026 20:47:45 GMT
+# AS219332 - Pmman Network - Last change: Thu, 06 Aug 2026 09:41:16 GMT
+2a0f:1cc5:4700::/40,JP,JP-13,Tokyo,
+2a0a:d685:300::/40,JP,JP-13,Tokyo,
 2a0a:d685:1ff::/48,HK,,Hong Kong,
 2a0a:d685:300::/48,JP,JP-13,Tokyo,
 2a0f:1cc5:4700::/48,JP,JP-13,Tokyo,
 2a0a:d685:302::/48,HK,,Hong Kong,
 2a0f:1cc5:4702::/48,HK,,Hong Kong,
 2a0a:d685:301::/48,CN,,,
-2a0f:1cc5:4701::/48,CN,CN-HN,Changsha,
+2a0f:1cc5:4701::/48,CN,,,
 
-# AS219378 - Sakarin Network - Last change: Mon, 13 Jul 2026 05:44:30 GMT
-2a0f:1cc5:45ff::/48,,,,
-2a0f:1cc5:4500::/45,TW,TW-TPE,Taipei,
+# AS219378 - Sakarin Network - Last change: Sun, 06 Sep 2026 11:13:39 GMT
+2a0e:4005:ff20::/48,SG,SG-01,Singapore,
+2a0e:4005:ffdd::/48,HK,,Hong Kong,
+2a0f:1cc5:4500::/45,CN,CN-SH,Shanghai,
 2a0f:1cc5:4508::/46,HK,,Hong Kong,
-2a0f:1cc5:450c::/47,FR,FR-59,Gravelines,59820
+2a0f:1cc5:450c::/47,FR,FR-59,Gravelines,
+2a0f:1cc5:450e::/48,MO,,Macao,
+2a0f:1cc5:450f::/48,JP,JP-13,Tokyo,
+2a0f:1cc5:4510::/46,JP,JP-13,Tokyo,
+2a0f:1cc5:4514::/46,JP,JP-13,Shinagawa,
+2a0f:1cc5:4518::/46,GB,GB-ENG,London,
+2a0f:1cc5:451c::/46,TW,TW-TPE,Taipei,
+2a0f:1cc5:4520::/45,NL,NL-NH,Amsterdam,
+2a0f:1cc5:45ff::/48,,,,
 
 # AS23347 - ZYC Network LLC - Last change: Mon, 15 Jun 2026 03:43:35 GMT
 2602:814:F000::/46,US,,,
@@ -1021,7 +1061,7 @@
 2a0f:5707:fa30::/48,AU,AU-NSW,Sydney,
 2a0f:5707:fafa::/48,DE,DE-HE,Frankfurt,
 
-# AS54286 - Taipei101 Network LLC - Last change: Fri, 10 Jul 2026 05:59:37 GMT
+# AS54286 - Taipei101 Network LLC - Last change: Mon, 07 Sep 2026 14:09:01 GMT
 23.147.120.0/24,US,US-CA,El Segundo,90245
 64.49.28.0/24,US,US-CA,El Segundo,90245
 23.147.120.232/32,KR,KR-11,Seoul,1006
@@ -1047,17 +1087,22 @@
 2602:F9A9:110::/44,JP,JP-36,Okuizumo,699-1511
 2602:FAA8:260::/44,JP,JP-36,Okuizumo,699-1511
 2602:faa8:609::/48,DE,DE-HE,Frankfurt am Main,60311
+23.246.167.0/24,US,US-CA,El Segundo,90245
+2602:faa8:800::/44,JP,JP-36,Okuizumo,699-1511
+2602:faa8:659::/48,JP,JP-36,Okuizumo,699-1511
 
-# AS62711 - Maxwell Telecom LLC - Last change: Sun, 14 Jun 2026 18:34:09 GMT
+# AS62711 - Maxwell Telecom LLC - Last change: Sat, 05 Sep 2026 06:54:57 GMT
 23.175.200.0/24,US,US-CA,Los Angeles,
 23.175.201.0/24,HK,,Hong Kong,
 2602:F921::/44,US,,,
 2602:f921:4::/46,US,US-MO,Kansas City,
+2602:F921:E00::/48,PH,PH-00,Manila,
+2602:f921:700::/48,SG,SG-01,Singapore,
 
-# AS204921 - YunZheng LAB - Last change: Thu, 25 Jun 2026 06:03:04 GMT
-142.249.114.0/24,HK,,Kwai Chung,
+# AS204921 - YunZheng LAB - Last change: Mon, 07 Sep 2026 14:09:02 GMT
+177.177.81.0/24,HK,,Kwai Chung,
 2a0e:aa07:e253::/48,HK,,Kwai Chung,
-142.249.115.0/24,TW,TW-TPE,Taipei,
+177.177.80.0/24,TW,TW-TPE,Taipei,
 2a0e:aa07:e252::/48,TW,TW-TPE,Taipei,
 2a0e:aa07:e251::/48,JP,JP-13,Tokyo,
 2a0e:aa07:e256::/48,DE,DE-HE,Frankfurt am Main,
